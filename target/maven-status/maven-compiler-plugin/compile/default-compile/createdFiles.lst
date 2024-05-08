@@ -1,0 +1,5 @@
+kurtoswebapplication\models\HomepageModel.class
+kurtoswebapplication\pages\HomePage.class
+kurtoswebapplication\application\KurtosysWebApplication.class
+kurtoswebapplication\locators\HomepageLocators.class
+kurtoswebapplication\utility\BaseClass.class
